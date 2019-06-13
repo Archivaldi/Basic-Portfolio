@@ -119,3 +119,7 @@ nav {
 .inside {
     border: 25px solid #ffffff;
 }
+
+input {
+    width: 100%;
+}
