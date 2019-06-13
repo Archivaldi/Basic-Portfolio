@@ -167,6 +167,8 @@ margin-bottom: 0%;
 }
 
 .firstImage {
+        margin-top: 30px;
+        margin-right: 15px;
         position: relative;
         display: inline-block;
 }
