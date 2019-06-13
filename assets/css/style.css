@@ -5,9 +5,23 @@ img {
 
 h2 {
     color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
     color: white;
+}
+p {
+    color: #777777;
+}
+
+header {
+    background-color: #ffffff;
+    display: block;
+}
+body {
+    width: 960px;
+    margin: auto;
 }
