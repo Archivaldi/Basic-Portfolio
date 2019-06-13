@@ -47,6 +47,8 @@ div {
     width: 960px;
     background-color: #ffffff;
     margin: auto;
+    padding: 8px;
+    padding-bottom: 0;
 }
 
 #container {
@@ -54,6 +56,7 @@ div {
     margin: auto;
     background-color: #ffffff;
     border: 1px solid #dddddd;
+    padding: 8px;
 }
 
 footer {
