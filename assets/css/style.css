@@ -44,7 +44,6 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
     margin: 0%;
-    line-height: 1.2;
 }
 
 header {
@@ -78,7 +77,7 @@ footer {
     text-align: center; 
     height: 75px;
     color: #ffffff;
-    border-top: 5px solid #4aaaa5;
+    border-top: 8px solid #4aaaa5;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -87,7 +86,10 @@ footer {
 
 #copy {
     color: #ffffff;
-    bottom: 50px;
+    font-size: 12px;
+    position: relative;
+    bottom: -70%;
+    width: 100%;
 }
 
 body {
