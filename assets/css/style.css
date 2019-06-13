@@ -38,6 +38,7 @@ header {
     display: block;
     width: 960px;
     margin: auto;
+    margin-top: 150px;
 }
 
 div {
@@ -48,18 +49,13 @@ div {
 }
 
 footer {
-    width: 960px;
-    margin: auto;
     display: block;
     background-color: #666666;
-    text-align: center;
+    text-align: center; 
+    text-align: buttom;
     height: 75px;
     color: #ffffff;
     border-top: 5px solid #4aaaa5;
 }
-body {
-    background-color: 
-}
-
 
 
