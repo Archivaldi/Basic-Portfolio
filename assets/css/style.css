@@ -193,3 +193,7 @@ margin-bottom: 0%;
 textarea {
     border-color:  #cccccc;
 }
+
+a:hover {
+    color: #4aaaa5;
+}
