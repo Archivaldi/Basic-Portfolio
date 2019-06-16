@@ -22,6 +22,10 @@ a {
     background-color: #ffffff;
     text-decoration: none;
 }
+
+a:hover {
+    color: #4aaaa5;
+}
  
 #portfolio {
     border-right: 1px solid #777777;
@@ -192,8 +196,4 @@ margin-bottom: 0%;
 
 textarea {
     border-color:  #cccccc;
-}
-
-a:hover {
-    color: #4aaaa5;
 }
