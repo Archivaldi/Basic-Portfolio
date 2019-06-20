@@ -158,19 +158,6 @@ label {
 margin-bottom: 0%;
 }
 
-#portfolioFooter {
-    margin-top: 40px;
-    display: block;
-    background-color: #666666;
-    text-align: center; 
-    height: 75px;
-    color: #ffffff;
-    border-top: 8px solid #4aaaa5;
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-}
 
 .firstImage {
         margin-top: 30px;
