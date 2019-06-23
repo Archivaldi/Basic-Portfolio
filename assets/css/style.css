@@ -90,10 +90,10 @@ footer {
     height: 75px;
     color: #ffffff;
     border-top: 8px solid #4aaaa5;
-    position: fixed;
-    right: 0;
+    /* position: fixed; */
+    /* right: 0;
     bottom: 0;
-    left: 0;
+    left: 0; */
     width: 100%;
 }
 
@@ -107,8 +107,8 @@ footer {
 
 body {
     background-image: url("../images/pattern.png");
-    margin: 0;
-    margin-bottom: 75px;
+    /* margin: 0; */
+    /* margin-bottom: 75px; */
 }
 
 h1, nav {
@@ -192,3 +192,19 @@ textarea {
     margin-top: 4px;
     height: 200px;
 }
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .wrapper {
+    min-height: 100%;
+  
+    /* Equal to height of footer */
+    /* But also accounting for potential margin-bottom of last child */
+    margin-bottom: -50px;
+  }
+  .footer,
+  .push {
+    height: 50px;
+  }
